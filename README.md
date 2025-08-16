@@ -1,4 +1,4 @@
-## shortner URL
+## Shortner URL
 Description: Designed a multi-region URL shortener with DynamoDB Global Tables and Redis caching for high availability <br>
 
 # Flask Python Project<br>
@@ -31,15 +31,15 @@ Open a web browser and visit http://localhost:5000 to access the application.
 The project has the following structure:
 
 # flask-python-project/
-   ├── app.py
-   ├── forms.py
-   ├── templates/
-   │   ├── base.html
-   │   └── index.html
-   └── README.md
-# app.py: The main Flask application file.
-# forms.py: Contains the Flask-WTF form definition.
-# templates/: Directory containing HTML templates.
-# base.html: Base template file with common HTML structure.
-# index.html: Home page template file.
+   ├── app.py <br>
+   ├── forms.py <br>
+   ├── templates/ <br>
+   │   ├── base.html <br>
+   │   └── index.html <br>
+   └── README.md<br>
+app.py: The main Flask application file. <br>
+forms.py: Contains the Flask-WTF form definition.<br>
+templates/: Directory containing HTML templates.<br>
+base.html: Base template file with common HTML structure.<br>
+index.html: Home page template file.
 # README.md: This file, providing information about the project.
