@@ -5,26 +5,26 @@ Description: Designed a multi-region URL shortener with DynamoDB Global Tables a
 This repository contains a Python project built using the Flask framework. It showcases how to create a web application using Flask and utilizes the Flask-WTF extension for form handling.<br>
 
 ## Requirements
-Python 3.x
-Flask
-Flask-WTF
+Python 3.x <br>
+Flask <br>
+Flask-WTF <br>
 ## Installation
 Clone the repository to your local machine:
 
 git clone https://github.com/Ganesh-a0576/Distributed-URL-Shortener-with-Analytics
 # Navigate to the project directory:
 
-cd WorkFlow
+cd WorkFlow<br>
 # Install the required module using pip:
 
-pip install flask
-pip install flask-wtf
-This will install Flask and Flask-WTF.
+pip install flask<br>
+pip install flask-wtf<br>
+This will install Flask and Flask-WTF.<br>
 
 ## Usage
 # Start the Flask development server:
 
-python app.py
+python app.py <br>
 Open a web browser and visit http://localhost:5000 to access the application.
 
 ## Project Structure
