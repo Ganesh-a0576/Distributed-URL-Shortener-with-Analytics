@@ -42,4 +42,4 @@ forms.py: Contains the Flask-WTF form definition.<br>
 templates/: Directory containing HTML templates.<br>
 base.html: Base template file with common HTML structure.<br>
 index.html: Home page template file.
-# README.md: This file, providing information about the project.
+
